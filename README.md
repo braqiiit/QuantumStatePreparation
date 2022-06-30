@@ -13,6 +13,8 @@ where $||A||$ is the normalization constant, and is equal to the magnitude of th
 We have access to a black-box $amp$ which has the following action - 
 $$amp|i\rangle|z\rangle = |i\rangle|z \oplus a_{i}^{(n)}\rangle $$
 
+where $a_{i}^{n}$ is the data $a_{i}$ upto $n$ bits of precision.
+
 ## Contents
 
 The Jupyter notebook covers the following - 
